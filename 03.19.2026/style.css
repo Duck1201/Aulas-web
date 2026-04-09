@@ -1,0 +1,15 @@
+div#div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    padding: 20px;
+    margin: auto;
+    width: 20%;
+    color: #0a0a0a;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+body{
+    background-color: azure;
+}

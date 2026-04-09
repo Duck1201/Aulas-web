@@ -1,0 +1,27 @@
+#titulo{
+    text-align: center;
+}
+#lula{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+#d2{
+    padding-top: 20px;
+}
+.container{
+    display: flex;
+    margin: auto;
+}
+body{
+    background-color: crimson;
+    font: normal 16pt Arial;
+}
+.menu{
+    flex: 1;
+}
+.menu2{
+    justify-content: center;
+    margin: auto;
+    flex-direction: column;
+}
